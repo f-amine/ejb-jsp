@@ -33,3 +33,6 @@ JSP est une technologie qui aide les développeurs à créer des pages web gén�
 
 
 # 3. Vidéo de Démonstration :
+
+https://github.com/f-amine/ejb-jsp/assets/58664365/e289c72c-bbcf-4dd0-943c-ff9dfdd48d9d
+
