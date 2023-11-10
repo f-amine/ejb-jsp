@@ -2,15 +2,15 @@
 <web-app xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="https://jakarta.ee/xml/ns/jakartaee" xsi:schemaLocation="https://jakarta.ee/xml/ns/jakartaee https://jakarta.ee/xml/ns/jakartaee/web-app_6_0.xsd" version="6.0">
   <servlet>
     <description></description>
-    <display-name>EmployeController</display-name>
-    <servlet-name>EmployeController</servlet-name>
-    <servlet-class>controller.EmployeController</servlet-class>
+    <display-name>EmployeeController</display-name>
+    <servlet-name>EmployeeController</servlet-name>
+    <servlet-class>controller.EmployeeController</servlet-class>
   </servlet>
   <servlet-mapping>
-    <servlet-name>EmployeController</servlet-name>
-    <url-pattern>/EmployeController</url-pattern>
+    <servlet-name>EmployeeController</servlet-name>
+    <url-pattern>/EmployeeController</url-pattern>
   </servlet-mapping>
-  <display-name>G6WebClient</display-name>
+  <display-name>g6webclientamine</display-name>
   <welcome-file-list>
     <welcome-file>index.html</welcome-file>
     <welcome-file>index.htm</welcome-file>
@@ -18,6 +18,5 @@
     <welcome-file>default.html</welcome-file>
     <welcome-file>default.htm</welcome-file>
     <welcome-file>default.jsp</welcome-file>
-    <welcome-file>employeelist.jsp</welcome-file>
   </welcome-file-list>
 </web-app>

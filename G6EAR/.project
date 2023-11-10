@@ -4,7 +4,7 @@
 	<comment></comment>
 	<projects>
 		<project>G6Serveur</project>
-		<project>G6WebClient</project>
+		<project>g6webclientamine</project>
 	</projects>
 	<buildSpec>
 		<buildCommand>

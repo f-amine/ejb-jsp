@@ -13,13 +13,13 @@ import dao.IdaoLocal;
 import entities.Employe;
 
 @WebServlet("/EmployeController")
-public class EmployeController extends HttpServlet {
+public class EmployeeController extends HttpServlet {
     private static final long serialVersionUID = 1L;
 
     @EJB
     private IdaoLocal<Employe> dao;
 
-    public EmployeController() {
+    public EmployeeController() {
         super();
     }
 
